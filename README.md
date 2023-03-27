@@ -134,9 +134,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tayabsoomro&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=tayabsoomro&theme=default_repocard)](https://twitter.com/tayabsoomro)
-
 ---
 
   ## 💰 You can help me by Donating
