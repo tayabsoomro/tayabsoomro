@@ -14,7 +14,7 @@
 <br><br>Hobbies: 🚴 · 📚 · 🏊‍♂️
 </td>
 <td>
-<img src="https://tayabsoomro.com/images/profile.jpeg" width="250" />
+<img src="https://gtce.itsvg.in/api?username=tayabsoomro&theme=default_repocard&border=false" width="450" />
 </td>
 </tr>
 </table>
