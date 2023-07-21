@@ -4,17 +4,27 @@
 <table>
 <tr>
 <td>
-<h3>Tayab Soomro</h3>
+<center><h2>tayabsoomro</h2></center>
+<h3>Experience & Education</h3>
 <ul>
-<li> 🧬 Computational Biologist @ <a href="https://github.com/nrgene">NRGene</a> </li>
-<li> 🌾 CEO @ PathoScan Technologies Inc.</li>
-<li> 🎓 M.Sc. Agriculture | B.Sc. Bioinformatics</li>
-</uk>
+<li> 🧬 Founder & CEO @ <a href="https://pathoscan.com">PathoScan</a> </li>
+<li> 🎓 M.Sc. Agriculture | B.Sc. Computer Science (specialization: Bioinformatics)</li>
+</ul>
 
-<br><br>Hobbies: 🚴 · 📚 · 🏊‍♂️
+<h3>Interests</h3>
+<ul>
+  <li>Genomics • Software Engineering • Automation • Data Science • Machine Learning</li>
+</ul>
+
+<h3>Hobbies</h3>
+<ul>
+  <li>🚴 Biking</li>
+  <li>📚 Reading</li>
+  <li>🏊‍♂️ Swimming</li>
+</ul>
 </td>
 <td>
-<img src="https://gtce.itsvg.in/api?username=tayabsoomro&theme=default_repocard&border=false" width="450" />
+  <img width="350" src="https://github.com/tayabsoomro/tayabsoomro/assets/19979068/a0b08835-036f-4da9-8236-ff171d7e3d01" />
 </td>
 </tr>
 </table>
@@ -31,7 +41,6 @@
 <td><strong>Frameworks</td>
 </td>
 <td>
-
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
