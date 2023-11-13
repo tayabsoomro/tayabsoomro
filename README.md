@@ -24,7 +24,7 @@
 </ul>
 </td>
 <td>
-  <img width="350" src="https://github.com/tayabsoomro/tayabsoomro/assets/19979068/a0b08835-036f-4da9-8236-ff171d7e3d01" />
+  <img width="350" src="https://github.com/tayabsoomro/tayabsoomro/assets/19979068/425a7915-3bc1-49c5-9509-67b816c6f3ed" />
 </td>
 </tr>
 </table>
