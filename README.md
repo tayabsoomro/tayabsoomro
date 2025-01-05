@@ -23,9 +23,6 @@
   <li>🏊‍♂️ Swimming</li>
 </ul>
 </td>
-<td>
-  <img width="350" src="https://github.com/tayabsoomro/tayabsoomro/assets/19979068/b07a5e57-2235-47b9-be43-f2a26ee8466c" />
-</td>
 </tr>
 </table>
 
